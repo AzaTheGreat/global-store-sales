@@ -23,3 +23,4 @@ In this Power BI project, I utilized the Global Superstore dataset to develop a 
     - Top 5 Unprofitable Products (Horizontal Bar Chart): Visualization of the top 5 products with the lowest profit margins.
 - **Customer Insights:**
     - Top 5 Customers (Vertical Bar Chart): Identification of the top 5 customers with the highest purchase volumes.
+![image](https://github.com/user-attachments/assets/b83f1e5d-0e07-44f6-bc31-f71c64fdf2e7)
